@@ -7,11 +7,11 @@
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulahTeni&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulahTeni&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MulahTeni&theme=tokyonight&background=)](https://git.io/streak-stats)
 
-![GithHub Stats](https://github-readme-stats.vercel.app/api?username=MulahTeni&theme=radical)
+![GithHub Stats](https://github-readme-stats.vercel.app/api?username=MulahTeni&theme=nightowl)
 
 <div align="center">
   <h2>Languages</h2>
@@ -21,23 +21,17 @@
 
 <div align="center" id="badges">
   <h2>My social media accounts</h2>
-  <a href="https://www.linkedin.com/in/zehra-beng%C3%BC-em%C3%BCl-2b9b871b3/">
+  <a href="https://www.linkedin.com/in/melih-tuna-ipek-1498831b6/">
      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/zehraemul/?hl=tr">
+  <a href="https://www.instagram.com/mulah.teni/">
     <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://steamcommunity.com/profiles/76561198995055725/">
-    <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"  alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://open.spotify.com/user/zehra.emul?si=a30284176886496f">
+  <a href="https://open.spotify.com/user/zd490m6d618pg7tkk1c7dba6w">
     <img  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png"  alt="LinkedIn Badge"/>
     
   </a>
   
-   <a href="https://www.youtube.com/channel/UCN4qpyDAUPmeI94eGB_FFTw">
-    <img  height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"  alt="LinkedIn Badge"/>
-    
-  </a>
+  
   
 </div>
