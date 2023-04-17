@@ -1,10 +1,10 @@
 ### Hi there 👋
   👾 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/906268037831860324/1038124460731027516/aa.gif" height="330" /> 
 ## My name is Melih Tuna İpek.
-  I am a computer engineering student at Yildiz Technical University.
+  I am a computer engineering student at Yildiz Technical University.<!--
 - 🌱 I’m currently interested in machine learning.
 - 🔭 I’m currently a team member of the ALGOLAB team of SKY LAB.
-
+-->
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulahTeni&theme=dark)
