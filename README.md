@@ -1,5 +1,5 @@
 ### Hi there 👋
-  👾 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/906268037831860324/1038124460731027516/aa.gif" height="330" /> 
+  👾 <img align="right" alt="GIF" src="https://drive.google.com/drive/folders/10SlWjH36mHIw0sdTp4I8xmnnRSNYi8rw" height="330" /> 
 ## My name is Melih Tuna İpek.
   I am a computer engineering student at Yildiz Technical University.
 <!--
