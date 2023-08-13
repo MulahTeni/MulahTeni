@@ -8,12 +8,12 @@
 -->
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulahTeni&theme=dark)
-<!--
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MulahTeni&theme=dark)
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MulahTeni&theme=tokyonight&background=)](https://git.io/streak-stats)
 
 ![GithHub Stats](https://github-readme-stats.vercel.app/api?username=MulahTeni&theme=nightowl)
--->
+
 <div align="center">
   <h2>Languages</h2>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
